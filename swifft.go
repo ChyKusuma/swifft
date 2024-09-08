@@ -1,8 +1,6 @@
-package sphinxhash
-
 /*
-#cgo CFLAGS: -I/path/to/libswifft/include
-#cgo LDFLAGS: -L/path/to/libswifft/lib -lswifft
+#cgo CFLAGS: -I/usr/local/include
+#cgo LDFLAGS: -L/usr/local/lib -lswifft
 #include "libswifft/swifft.h"
 #include <stdlib.h>
 */
